@@ -71,5 +71,6 @@ else {
  console.log("انتي في المدرسة");
 } else if  (age <= 26){
     console.log("انت في الجامعة");
-
+} else{
+    console.log(" انت لا تستوفي الشروط ")
 }
