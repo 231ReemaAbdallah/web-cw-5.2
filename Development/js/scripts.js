@@ -67,9 +67,9 @@ else {
 
  if(age >=4 && age <=6){
      console.log("انت في الروضه");
- }else if( age<= 18){
+ }else if(  age <=7 && age<= 18) {
  console.log("انتي في المدرسة");
-} else if  (age <= 26){
+} else if  ( age<= 18 && age <= 26){
     console.log("انت في الجامعة");
 } else{
     console.log(" انت لا تستوفي الشروط ")
